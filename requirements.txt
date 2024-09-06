@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+pyaudio
+fuzzywuzzy
+python-Levenshtein
+requests
+wikipedia
+pywhatkit
+pygetwindow
+AppOpener
+google-generativeai
+
