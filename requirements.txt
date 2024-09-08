@@ -10,3 +10,5 @@ pygetwindow
 AppOpener
 google-generativeai
 
+#import these using 
+#Pip install -r requirements.txt
